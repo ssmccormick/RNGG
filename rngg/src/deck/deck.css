@@ -46,3 +46,43 @@
   background-position-x:90px;
   background-position-y:100px;
 }
+
+/*Login Home Page Styles*/
+
+.main {
+  margin: 0px auto;
+}
+
+.form-container {
+  margin: 25% auto;
+  text-align: center;
+  width: 15%;
+  height: 20%;
+  padding: 50px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-shadow: 2px 5px 15px #000;
+}
+}
+
+.login-form {
+  text-align: left;
+
+}
+
+.login-form input {
+  margin: 10px;
+  border: 1px solid #000;
+}
+
+.login-form label {
+  
+}
+
+.username-input {
+
+}
+
+.password-input {
+
+}

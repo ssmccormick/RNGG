@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import DeckApp from './deck';
+//import DeckApp from './deck';
 
 
 
@@ -21,7 +21,6 @@ const App = () => {
           Learn React
         </a>
       </header>
-      <DeckApp />
     </div>
   );
 }

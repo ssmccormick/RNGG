@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-
+/*
 const Deck = ({ deck }) => {
 
   for(let i = 0; i < deck.length; i++) {
@@ -64,4 +64,4 @@ const DeckApp = () => {
   );
 }
 
-export default DeckApp;
+export default DeckApp;*/
