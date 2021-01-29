@@ -58,8 +58,8 @@ const DeckApp = () => {
   return (
     <div className="deck-contain">
       <h1>A Shuffled Deck of Cards</h1>
-      <Deck deck={ShuffleDeck()}/>
-      <ShuffleDeck deck={getDeck()} />
+      <Deck deck={ShuffleDeck}/>
+      <ShuffleDeck deck={getDeck} />
     </div>
   );
 }
