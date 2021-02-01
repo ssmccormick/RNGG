@@ -48,6 +48,10 @@
 }
 
 /*Login Home Page Styles*/
+body {
+ background-image: url(https://i.pinimg.com/originals/49/f6/c2/49f6c2a2b4b652beac28196a642fa6e3.jpg);
+
+}
 
 .main {
   margin: 0px auto;
@@ -63,7 +67,11 @@
   border: 1px solid #000;
   box-shadow: 2px 5px 15px #000;
 }
+
+.heading {
+  margin: 2px auto;
 }
+
 
 .login-form {
   text-align: left;
@@ -73,6 +81,13 @@
 .login-form input {
   margin: 10px;
   border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #eee;
+  height: 25px;
+}
+.login-form input:focus {
+  outline: none;
+  background-color: #36C5F0;
 }
 
 .login-form label {
